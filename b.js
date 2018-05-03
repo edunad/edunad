@@ -1,3 +1,3 @@
 var orange, fresh;
 orange = document.getElementById("orange");
-fresh = orange.getAttribute("fresh");
+fresh = orange.getAttribute("topkek");
