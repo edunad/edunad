@@ -1,0 +1,12 @@
+[submodule "test2"]
+	path = test2
+	url = https://github.com/edunad/---.---.git
+[submodule "wh"]
+	path = wh
+	url = https://github.com/D3lta/---.---.git
+[submodule "null"]
+	path = null
+	url = https://github.com/D3lta/---.---.git
+[submodule "nul"]
+	path = nul
+	url = https://github.com/D3lta/---.---.git
