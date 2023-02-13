@@ -1,4 +1,4 @@
-# Rawr ¯\_(ツ)_/¯?
+# Rawr ¯\\_(ツ)_/¯?
 I lied 
 <<img src='`..data<>text/html,<script>alert(1);</script>.png'>
 <<img src='./tr.png'>
